@@ -1,7 +1,7 @@
 ```markdown
 # 📺 Netflix Data Analysis using PostgreSQL
 
-!(https://github.com/kumaran1523/Netflix_Sql_Projects_1/blob/main/netflix-logo.png)
+![Netflix Logo](netflix-logo.png)
 
 ## 📌 Project Overview
 
