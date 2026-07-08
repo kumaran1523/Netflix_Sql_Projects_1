@@ -1,6 +1,6 @@
 ```markdown
 # 📺 Netflix Data Analysis using PostgreSQL
-: [This is netflix image] (https://github.com/kumaran1523/Netflix_Sql_Projects_1/blob/main/netflix-logo.png)
+:[This is netflix image] (https://github.com/kumaran1523/Netflix_Sql_Projects_1/blob/main/netflix-logo.png)
 ## 📌 Project Overview
 
 This project analyzes the **Netflix Movies and TV Shows** dataset using **PostgreSQL**. The objective is to solve real-world business problems using SQL by performing **data exploration, aggregation, filtering, ranking, window functions, and string manipulation**.
