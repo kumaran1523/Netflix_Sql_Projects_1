@@ -1,7 +1,15 @@
 ```markdown
 # 📺 Netflix Data Analysis using PostgreSQL
 
-![Netflix Logo](netflix-logo.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" width="180" alt="Netflix Logo">
+</p>
+
+<h1 align="center">📺 Netflix Data Analysis using PostgreSQL</h1>
+
+<p align="center">
+SQL • PostgreSQL • Data Analytics • Business Intelligence
+</p>
 
 ## 📌 Project Overview
 
